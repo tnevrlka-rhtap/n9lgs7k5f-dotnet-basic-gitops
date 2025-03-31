@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: n9lgs7k5f-dotnet-basic-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/n9lgs7k5f-dotnet-basic
